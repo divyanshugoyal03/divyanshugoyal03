@@ -16,37 +16,15 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/abcof
 
 ### 🛠️ Skills
 
-- AWS‬‭ Cloud‬‭ Computing‬‭ Services‬‭ :‬
-‭ VPC,‬‭ Route‬‭ 53,‬‭ EC2,‬‭ EBS,‬‭ S3,‬‭ IAM,‬
-‭ Load‬‭ Balancing,‬‭ Cloud‬‭ Formation,‬
-‭ Autoscaling, Secret Manager‬
-‭
-- Containerization‬‭ &‬‭ Orchestration:‬
-‭ Amazon‬‭ ECS,‬‭ Docker,‬‭ Docker‬
-‭ Compose, Kubernetes, and EKS‬
-‭
-- CI/CD‬‭ &‬‭ DevOps‬‭ Tools:‬‭ GitLab‬‭ CI,‬
-‭ Jenkins, Consul, Vault‬
-‭
-- Monitoring‬‭ &‬‭ Logging:‬‭ ELK‬‭ Stack,‬
-‭ Grafana, Prometheus‬
-‭
-- Scripting:‬‭ Bash/Shell‬‭ Scripting,‬
-‭ YAML,‬‭ Python‬‭ (basic‬‭ scripting‬‭ for‬
-‭ automation)‬
-‭
-- Infrastructure as code (IaC)‬‭ :‬
-‭ Terraform‬
-‭
-- Version‬‭ Control‬‭ &‬‭ Collaboration:‬
-‭ Git, GitLab, Confluence, Jira‬
-‭
-- Agile‬‭ &‬‭ SDLC:‬‭ Sprint‬‭ planning,‬
-‭ Agile/Scrum‬‭ methodologies,‬‭ Peer‬
-‭ mentoring‬
-‭
--‭ Soft‬‭ Skills:‬‭ Team‬‭ Collaboration,‬
-‭ Leadership, Adaptability‬
+- **AWS‬‭ Cloud‬‭ Computing‬‭ Services‬‭:** VPC,‬‭ Route‬‭ 53,‬‭ EC2,‬‭ EBS,‬‭ S3,‬‭ IAM,‬ Load‬‭ Balancing,‬‭ Cloud‬‭ Formation,‬ Autoscaling, Secret Manager‬
+- **Containerization‬‭ &‬‭ Orchestration:** Amazon‬‭ ECS,‬‭ Docker,‬‭ Docker‬ Compose, Kubernetes, and EKS‬
+- **CI/CD‬‭ &‬‭ DevOps‬‭ Tools:** GitLab‬‭ CI,‬ Jenkins, Consul, Vault
+- **Monitoring‬‭ &‬‭ Logging:‬** ELK‬‭ Stack,‬ Grafana, Prometheus‬
+- **Scripting:‬‭** Bash/Shell‬‭ Scripting, YAML,‬‭ Python‬‭ (basic‬‭ scripting‬‭ for‬ automation)‬
+- **Infrastructure as code (IaC)‬‭:** Terraform, CloudFormation‬
+- **Version‬‭ Control‬‭ &‬‭ Collaboration:** Git, GitLab, Confluence, Jira‬
+- **Agile‬‭ &‬‭ SDLC:‬‭** Sprint‬‭ planning, Agile/Scrum‬‭ methodologies,‬‭ Peer‬ mentoring‬
+- **Soft‬‭ Skills:‬‭** Team‬‭ Collaboration,‬ Leadership, Adaptability‬
 
 
 ### 👋🏻 Connect with Me
