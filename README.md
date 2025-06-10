@@ -2,11 +2,17 @@
 
 <img width="1499" alt="image" src="https://github.com/user-attachments/assets/e4fba51c-0861-47e8-9358-1081eba57144" />
 
-Hello, I'm Divyanshu, with 8 years of experience in DevOps, cloud infrastructure, and automation. My key strengths include:
+Hello, I'm Divyanshu, a results-driven DevOps Engineer with expertise in infrastructure automation, CI/CD, container orchestration, and cloud-native solutions. Proven track record in streamlining deployment workflows, enhancing system reliability, and enabling scalable development environments.
 
-- CI/CD & Automation: Developing scalable CI/CD pipelines using GitHub Actions, Jenkins, and Terraform.
-- Cloud Infrastructure: Designing and managing highly available AWS environments with a focus on security, performance, and cost optimization.
-- Kubernetes & Container Orchestration: Managing and optimizing Kubernetes workloads, implementing HPA/KEDA for efficient scaling, and enhancing deployment strategies.
+- Skilled in designing and managing scalable cloud infrastructure using AWS (EC2, ECS, S3, VPC) and Infrastructure as Code with Terraform and CloudFormation.
+
+- Experienced in building and maintaining end-to-end CI/CD pipelines with Jenkins, GitLab CI, and Bitbucket, supporting microservices across environments.
+
+- Proficient in Kubernetes (EKS) and Docker for containerized deployments, ensuring high availability and fault tolerance in production systems.
+
+- Strong hands-on knowledge of monitoring and observability using Prometheus, Grafana, ELK Stack, and CloudWatch for proactive issue resolution.
+
+- Adept at collaborating with cross-functional teams to drive DevOps best practices, improve deployment speed, and maintain 99.9%+ system uptime.
 
 ### 📚 Projects
 
