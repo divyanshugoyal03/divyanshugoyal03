@@ -1,6 +1,7 @@
 ## 🙋‍♂️ Introducing Myself
 
-<img width="1499" alt="image" src="https://github.com/user-attachments/assets/e4fba51c-0861-47e8-9358-1081eba57144" />
+<img width="1499" alt="453585531-e4fba51c-0861-47e8-9358-1081eba57144" src="https://github.com/user-attachments/assets/7549bc91-5d00-495f-a81a-2a696c781fde" />
+
 
 
 Hello, I'm Divyanshu, a results-driven DevOps Engineer with expertise in infrastructure automation, CI/CD, container orchestration, and cloud-native solutions. Proven track record in streamlining deployment workflows, enhancing system reliability, and enabling scalable development environments.
